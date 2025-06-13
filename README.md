@@ -5,6 +5,6 @@ My goal in making this project is to help people who are new to Linux start usin
 #Commands needed to install
 ```bash
 cd ~/projects/sc/
-chmod +x auto.sh
+./auto.sh
 ./auto_installer
 ```
