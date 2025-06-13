@@ -4,7 +4,7 @@ My goal in making this project is to help people who are new to Linux start usin
 
 #Commands needed to install
 ```bash
-cd ~/projects/sc/
+cd ~/auto_installer/projects/sc/
 ./auto.sh
 ./auto_installer
 ```
