@@ -2,7 +2,7 @@ g++ -o auto_installer auto_installer.cpp default.cpp nvidia.cpp yaypkg.cpp debia
 
 # Derleme başarılıysa ekrana bilgi verir
 if [ $? -eq 0 ]; then
-    echo 'Compilation process finished please us "./auto_installer"'
+	echo 'Compilation process finished please use "./auto_installer"'
 else
-    echo "Compilation process failed!"
+	echo "Compilation process failed!"
 fi

@@ -2,5 +2,6 @@
 #define DEFAULTT_H
 
 void Installdefaultpkg();
+void InstalldefaultpkgDeb();
 
 #endif

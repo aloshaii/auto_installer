@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+
+projects/sc/auto_installer
+projects/sc/*.o
+projects/sc/yay-bin/
