@@ -33,6 +33,9 @@ int main() {
     if(anv == "Yes"){
         installYAYpkg();
     }
+    else{
+        continue;
+    }
 
     
     if(ans = 1){
