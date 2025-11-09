@@ -1,9 +1,9 @@
-#include <iostream>
-#include <cstdlib>
 #include "nvidia.h"
+#include <cstdlib>
+#include <iostream>
 
 void installNvidiaDrivers() {
-    std::cout << "[INFO] The NVIDIA drivers installing...\n";
+  std::cout << "[INFO] The NVIDIA drivers installing...\n";
 
     
     int ret = std::system("sudo pacman -Syu nvidia nvidia-utils nvidia-settings");
